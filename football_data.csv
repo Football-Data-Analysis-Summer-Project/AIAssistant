@@ -1,0 +1,450 @@
+﻿Question,Answer
+What is this website about?,"This website is a Football centric website, which allows you to explore and see different aspects of the world's most beautiful game"
+Is this platform free to use?,"This Platform is absolutely free to use. Thank you for coming to our website, it really means a lot to us."
+Do I need to sign up to use the features?,"No, Just start using and diving into the world of football."
+Can I use this on my phone?,"All the features and models work in Mobile phones, but some designs may appear disfigured as we only have the computer site."
+How accurate are the predictions?,The Transfer fee predictor more precisely is about 76% accurate based on the 2023-24 season data.
+How is data for players collected?,"The Data for players are collected from Fbref and TransferMarkt, we researched for features which were most important and they were collected via Web Scraping"
+Are women's football teams included?,Yes!! The Women's teams and players are included!! Get into building your dream Women's team.
+Is the data updated in real time?,"No, for now the data is not updated in real time."
+Can I save or share my created team?,Of course you can share your team by taking a screenshot and sharing with your friends.
+Do you cover all football leagues?,"For our Favorite Team Maker we cover all the leagues, for the Transfer fee we cover EPL, La Liga, Serie A, Ligue 1, Bundesliga only."
+Who developed this platform?,This Platform was developed by college students who put their skills to create something they like. 
+Are there any plans to add fantasy football integration?,"Not now, but who knows, maybe in the future!"
+Can I use the website in other languages?,No only in English! Sorry for inconvinience!
+How do I build my favorite XI?,"To Build your Favorite 11 just go to our Main Menu and click on ""Make Your Team"" . "
+Can I select players from different leagues?,"Of course, you can select players from different leagues."
+Can I make a mixed-gender team?,"No, you cannot make a mixed gender team"
+How do I choose the formation?,There is a dropdown list from the formations which we offer in the left side of the window for the Favorite 11 Maker.
+Can I auto-select the best XI?,"No You cannot, you have to make your 11"
+What stats are shown for each player?,The Overall and The club name is shown
+Can I compare my XI with someone else's?,"At this moment, No you cannot."
+Can I download an image of my team?,"Yes!!, just take a screenshot of your 11, share, download, enjoy"
+Is there a restriction on team balance?,You have to make a choice from the set of Lineups we offer.
+Can I make multiple teams?,"No, only one team at once."
+Are player ratings real-time?,Yes
+How are ratings calculated?,"By taking into consideration facts and stats like goals, assists, tackles, saves and a lot more."
+"Can I create historical XIs (e.g., best of 2010s)?","No You cannot, Only current players"
+Is chemistry between players considered?,"No, Its not considered"
+Can I share my team on social media?,"Yes, Take a screenshot and share it in the Social Media"
+Can I filter players by club or country?,"Absolute;y, You can filter via league, country and club!"
+Can I make a team just with retired players?,No
+How do I know if a player is injured?,All players are considered fit.
+Can I exclude certain players from selection?,"Yes, You can apply filters and do that."
+Do you show the total market value of my team?,"Currently, we do not calculate or display the total market value of your selected XI. However, you can see each player's overall rating (OVR) and club, which can indirectly help gauge strength."
+How does the transfer fee predictor work?,"The transfer fee predictor uses machine learning models trained on real-world transfer data and player statistics, including age, position, OVR rating, and league. It estimates a realistic market value for a player based on current trends."
+What factors influence the predicted fee?,"Factors include the player's age, position, current club, league, nationality, and most importantly, their overall rating (OVR) and recent performance data if available."
+Are recent performances considered?,"If available in the dataset, recent performances are included. However, if the player’s recent data is missing, predictions rely on the most stable features like OVR and position."
+Can I predict fees for retired players?,"Currently, retired players are not supported in the fee predictor since most of the predictive data is based on active player stats."
+Can I compare predicted fee with actual transfer history?,"Not directly, but you can look up a player’s past transfer history externally and compare it with our predicted value for validation."
+Do you include inflation in transfer values?,"At present, inflation is not explicitly modeled. Fees are predicted based on current market patterns and do not include historical price adjustments."
+Are youth players included?,"Yes, youth players are included in the dataset as long as they have sufficient stats like OVR, position, and club data."
+How reliable is the fee prediction?,"While no model is perfect, the predictions offer a reasonable estimation based on data-driven analysis and can serve as a strong reference point."
+Why is a certain player’s value so high/low?,"Player values may appear unusually high or low based on their club, league, or lack of match time, which significantly impacts their predicted worth."
+Do you include loan values?,"Loan players are included, but the predictor estimates their permanent transfer value based on their parent club and performance data."
+Is the predicted fee for summer or winter market?,"The model predicts an estimated market value, not specific to a transfer window, but it aligns more with the general summer market values."
+Can I search by player name?,"Yes, you can search for players by their full or partial name using the available dropdown filters or search options."
+Can I filter by league or nationality?,"Yes, you can filter by league or nationality using the side filters provided in the app interface."
+Are predictions updated regularly?,"Predictions are based on the most recently updated dataset. The frequency of update depends on data availability, typically per transfer window."
+Do you include free agent values?,"Yes, free agents are assigned a value based on their attributes, though the model adjusts slightly to account for lack of current club."
+Can I simulate a transfer between clubs?,"Not yet. Currently, it only predicts fee, not simulates transfers. We may include this in a future update."
+Can I input custom player stats for prediction?,"This feature is not supported yet. Predictions are based on real data, not custom inputs."
+How do injuries affect the prediction?,"Injuries can reduce player market value if recent performance data shows a drop in appearances or rating, depending on data availability."
+What’s the average error margin of your predictions?,"While we don’t publish a specific error margin, our internal validations suggest an approximate deviation of ±10-15% from real-world market trends."
+Do you factor in market trends?,"Yes, trends such as league-wide inflation or emerging talent waves are indirectly learned by the model from training data."
+How does the Opponent Wise XI Predictor work?,The Opponent Wise XI Predictor selects an ideal lineup by analyzing historical performance of players against specific opponents.
+Can I choose the opponent team manually?,"Yes, you can select the opponent manually from the dropdown to generate a customized best XI."
+What data is used to build this team?,"The feature uses performance stats, positional data, and historical matchups to recommend the most effective players."
+Are tactics considered?,"Yes, tactical formations and positional matchups are factored into the team suggestion algorithm."
+Can I change the formation in this feature?,"Yes, you can change the formation via the sidebar and see different selections accordingly."
+Does it consider player head-to-head records?,"Yes, if head-to-head data is available, it influences the player rankings for selection."
+Can I tweak the predicted XI?,"Not directly, but you can override selections manually in the Favorite XI Maker for comparison."
+Is this for club or international matches?,"The feature supports both, depending on the context of the data. For now, it’s mainly tuned for club-level analysis."
+Are injuries and suspensions taken into account?,"If that data is present in the dataset, it is considered. Otherwise, all available players are considered eligible."
+Can I get predictions for upcoming matches?,"Yes, you can use this tool to prepare for upcoming matches by selecting the appropriate opponent."
+Does it update based on recent form?,"Yes, the selected XI reflects form updates, OVR changes, and available performance data at the time of last update."
+Is there a defensive vs attacking variation?,"Yes, in future updates we may allow toggling between aggressive or defensive styles to tailor selections."
+Do I get a win probability along with the XI?,"Currently, it shows the best XI only, but we’re working on integrating match outcome predictions."
+Can I compare it with my own XI?,"Yes, you can use both tools and compare outputs or manually edit selections to match your preference."
+Can I export this team?,"Not currently, but team export as image or data is under consideration for future features."
+How do I compare two players?,"Select two players from the database and the app will generate a radar chart and compare stats like OVR, position performance, and more."
+What stats are compared?,"We compare key metrics such as OVR, passing, shooting, defending, pace, and more, depending on player role."
+Can I compare players from different positions?,"While you can technically compare any two players, comparisons are more meaningful within similar positions."
+Can I compare male and female players?,"Yes, provided they exist in the dataset. We treat all players equally in comparisons."
+Do you show radar charts?,"Yes, radar charts are used to visually show strengths and weaknesses across metrics."
+Can I compare more than two players?,"Currently, only two players can be compared at once, to maintain visual clarity and focus."
+Are stats normalized for minutes played?,"Yes, per-minute normalization is used to avoid bias toward players with more game time."
+Can I see comparison over multiple seasons?,"Yes, comparisons over multiple seasons are supported if data is available in the player history."
+How often are stats updated?,Stats are updated periodically based on dataset refresh—usually once per transfer window or monthly during season.
+"Do you include xG, xA in comparisons?","Yes, expected goals (xG), expected assists (xA), and other advanced metrics are shown if available."
+Can I compare a player’s performance in different teams?,"Yes, the system can reflect stat differences based on club teams, if the dataset supports it."
+Can I compare club and national team stats?,"If data exists for national performance, you can compare both separately or combined."
+"Are physical stats (speed, height, etc.) included?","Yes, attributes like pace, strength, and height are included for more physical comparisons."
+How do I interpret the radar chart?,Each axis represents a stat and the filled area indicates performance. Bigger area = stronger overall player.
+Can I compare player chemistry?,"Chemistry is not directly modeled, but future updates may include compatibility indicators."
+The page is not loading – what should I do?,"Try refreshing the page or clearing cache. If the problem persists, check your internet connection."
+I can’t find a player – what should I do?,Make sure the name is spelled correctly. Some players might be missing due to incomplete data.
+Why is the radar chart blank?,The chart may be blank if either player lacks sufficient stats. Try selecting different players.
+Can I give feedback or suggest a new feature?,"Yes, there’s usually a feedback form or contact link in the sidebar or footer section."
+Can I report a wrong stat?,"Yes, you can use the feedback form to report any incorrect information or suggest corrections."
+Is there a mobile app version of the site?,"Not yet, but a mobile-friendly version of the web app is in development."
+How do I reset everything?,"There should be a reset or refresh button, or simply reload the page to start over."
+Do I need a strong internet connection?,"Yes, since the app loads media and large datasets, a stable internet connection is recommended."
+What browsers are supported?,"The web app is best viewed on modern browsers like Chrome, Edge, Firefox, or Safari."
+Can I use it offline?,"No, the app is browser-based and requires internet to load and interact with the models."
+What machine learning models do you use?,"We use regression models (e.g., XGBoost) and statistical analysis to train features like transfer prediction and comparisons."
+Is your transfer predictor trained on real transfer data?,"Yes, the fee predictor has been trained using actual historical transfer records sourced from public datasets."
+How do you handle data bias?,"We mitigate bias by ensuring wide coverage across leagues, nations, and positions during model training."
+Are you using any open football datasets?,"Yes, we utilize publicly available football datasets (e.g., from Kaggle, FIFA, and Transfermarkt) for training."
+How is user data handled on the backend?,"User data is not stored or tracked. All inputs remain local to the session, ensuring privacy and compliance."
+Can I talk to the AI avatar of the developer in real time?,"Yes, the AI avatars give pre-recorded yet personalized responses — not real-time conversation for now."
+What model powers the avatars' speech and behavior?,"They are powered by a combination of text-to-speech models and animation scripts, not live models."
+Is the developer avatar actually based on their real voice and personality?,The avatars are inspired by real developer personalities but not exact replicas of voice or behavior.
+How was the avatar animation created—was it deepfake or GAN-based?,Animations are created using avatar animation tools with lip-syncing based on generated scripts — not deepfake.
+Can I customize the AI avatar to say something else?,Not yet — custom avatar scripting is under development for future updates.
+Is the main menu AI avatar lying when it says it works all night?,That’s just our way of saying we’re passionate — the avatar doesn’t actually stay awake 😄.
+Can the AI avatar play football?,Only in the metaverse — but our avatars definitely know how to pick players.
+Which foundation model is used to generate team suggestions?,"Yes, the team suggestion model uses player embeddings and a rule-based optimizer."
+Is this site secretly powered by ChatGPT or something similar?,We use transformer-based models in some components but the core is our own pipeline.
+Do you use embeddings to store player stats for fast access?,Yes — we convert player features into vector space and perform nearest-neighbor searches.
+How large is the dataset you're using behind the scenes?,"The main dataset includes over 16,000+ male and 2,000+ female players from FC25."
+Is each player a vector in your model?,Yes — players are encoded as feature vectors for similarity-based tasks.
+Do you perform clustering to group similar players?,We use clustering (like K-means) for roles and similarity-based filtering.
+Are you using a neural network or decision trees for your transfer predictor?,The transfer predictor is powered by XGBoost — a tree-based ensemble model.
+Can I plug in my own ML model into your app?,"Currently no plugin feature, but we’re open-sourcing some components soon."
+Do the models get smarter the more people use the site?,"No, the models don’t learn from usage yet — but we log trends for offline improvement."
+Can I download the ML model weights?,We don’t expose raw model weights for now — protection against misuse.
+What does the AI avatar think about Messi vs Ronaldo?,The Avatar thinks both are legends of the game and we respect both of them.
+Is the Favorite XI generated via greedy algorithm or optimization?,"Favorite 11 is made by you, no algortithm makes the team."
+Are there any hidden dev jokes in the avatar responses?,No
+Does the website track how many people chose Haaland?,No
+Is there a reward for selecting an unusual XI?,No
+What if I only choose defenders—will the app crash?,"No, you can choose a set of defenders depending on the formation which you have taken."
+Can I pit my team against the developer’s AI team?,No
+Will the AI avatar eventually judge my XI?,No
+Can I get stats on how many users selected a certain formation?,"No, That is not for Users to view"
+Can I view the model's confidence scores for predictions?,No
+How do you handle missing data in the transfer prediction model?,"We remove the rows which have missing data, this is classic imputation technique"
+Are you using fine-tuning or zero-shot predictions for your models?,Yes
+Did you build the backend models using Streamlit alone or something else?,"Streamlit is the Frontend, Backend is made by Python!!"
+Can the AI avatar roast my selected XI?,"No, we let you choose freely!"
+How often does the avatar script update with new content?,No
+Is there a dark mode easter egg activated by secret input?,No
+Can I clone the avatar and make it explain my own football startup?,"Hell No, That's a weird idea!"
+Does the system use NLP to interpret user behavior or inputs?,"No, It uses Langchain and Gemini Flash"
+Can I ask the avatar to predict the future of football?,No
+Is the website secretly trying to build a Football GPT model from user input?,No
+Can I challenge the AI to select a better XI than mine?,No
+Was the player comparison model trained on men’s and women’s data together?,"No separately, Men's and Women's Data separately"
+Do the avatars hallucinate when given unexpected questions?,"They are good developers, if they hallucinated you wouldn't be here."
+Is it true that the developer avatar is scared of left-footed goalkeepers?,No
+What happens if I only pick 5 players instead of 11?,"You get an incomplete team, which is not real life situation"
+Is the transfer fee predictor secretly using insider football data?,No
+Can I ask the AI avatar philosophical questions about the sport?,No
+What’s the weirdest lineup the model has ever predicted?,4-3-3 With Goalkeepers only
+Are any player stats generated using simulation or fantasy data?,No
+Can I turn the website into a football RPG with these features?,"No, but we suggest improvements, mail them at rounakchakraborti499@gmail.com"
+Why does the developer avatar blink so much—is it nervous?,No it is not tense
+What would happen if I ask the avatar to become my agent?,"They wouldn't join you, sorry for that, you can join us contact us."
+Do you store how long I spend watching the avatar's intro?,Yes
+"Are the radar charts generated using matplotlib, plotly, or some secret sauce?",Matplotlib and Seaborn
+Can I train the avatar to speak in my regional language?,No
+Is there a version of this site where the AI avatar has hair?,Everyone has hair here.
+Why does a bench player have a higher predicted fee than a starter?,"Because stats like goals per minute, potential, and age can outweigh current starting status."
+Does the model consider agent influence or off-pitch popularity?,No — agent influence or media hype is not part of the model.
+Can two players with same stats have different predicted fees?,"Yes — contextual data like age, team, and league strength can cause this."
+Does the model adjust values based on financial fair play rules?,No — financial regulations aren't factored into the value.
+Can I trick the predictor by editing player age or team?,No — fake age or team inputs won’t affect model as real data is used.
+Is the model trained on leaked transfer data?,"No — the model is trained only on publicly available, clean data."
+Do contract length and clauses affect predictions?,No — contract clauses like buy-out or length are not directly included.
+What happens if I input an imaginary player?,The model won’t return a prediction if a player isn't in the dataset.
+Does the fee prediction vary with club wealth?,Yes — historically richer clubs tend to have higher player valuations.
+Can a free agent still have a high transfer value?,Yes — if the free agent has high historical or recent performance.
+Why do goalkeepers often have lower predicted fees?,Because their role is less market-valued despite being crucial.
+How do recent scandals or off-field incidents affect predicted value?,"Currently, no — off-field events are not included in predictions."
+Are player wages considered while predicting fees?,No — wages are not factored into the prediction logic.
+Does the model know if a player is likely to move this window?,"No — it only uses player performance stats, not transfer intent."
+Does it consider if the player is a fan favorite?,No — fan sentiment is not considered.
+Is the model biased towards big 5 leagues?,"No — the model is trained on a diverse set, but performance is stronger in top leagues."
+How is market demand represented in the prediction?,"Market demand is represented indirectly through stats like goals, assists, etc."
+Do nationality and passport rules affect predicted value?,No — passport or nationality isn’t a part of the prediction data.
+Can we predict the change in value after a good season?,Not directly — but performance over a season changes the predicted value.
+Does the model account for currency fluctuations in real life?,No — currency exchange fluctuations are not included.
+Can this model counter a specific playing style like “park the bus”?,"Yes — for example, it adjusts to low-block or high-press styles based on past data."
+Does it factor in specific coach tactics of the opponent?,No — it does not model coach-specific tactics.
+Will it change the team drastically against top-tier vs lower-tier clubs?,Yes — matchups against strong or weak teams change the XI.
+Does it exclude injured players automatically or need manual input?,Yes — injured and suspended players are excluded based on recent match data.
+Does it show player matchups like “Player X vs Player Y” stats?,Not exactly — but overall impact data between two players is considered.
+How does the model behave when data is missing for the opponent team?,"If data is missing, fallback logic based on average metrics is used."
+Is the Opponent XI prediction explainable — can I see why each player was picked?,Yes — every player's inclusion is shown transparently.
+Can I force it to use a fixed captain while predicting the rest?,Yes — you can fix a captain and allow others to be predicted.
+Does it favor younger legs against pressing teams?,Yes — stamina and fitness stats favor younger players in pressing setups.
+Can it simulate multiple strategies and show outcomes?,No — it doesn’t simulate tactics beyond best XI yet.
+What if the opponent plays a formation the model hasn't seen before?,It will adapt as best as possible using the closest similar formation.
+How does it balance form vs historical success?,Form carries more weight than long-term historical performance.
+Will the model update if the opponent squad changes before the match?,"Yes — if the opponent lineup changes, the XI will update."
+Does the XI change based on match venue (home/away)?,"Yes — the venue influences the lineup, e.g., more defensive away."
+Can it suggest tactical substitutions too?,No — substitutions are not suggested in this version.
+Will it adapt to knockout matches vs league matches?,No — it's not optimized for knockout vs league game context.
+Does it include crowd impact or rivalry data in suggestions?,No — rivalry or crowd dynamics are not yet modeled.
+How is weather or pitch condition handled in Opponent XI?,Weather and pitch data are not currently part of the logic.
+Can it recommend a bench along with the starting XI?,"No — only a starting XI is shown, bench is not predicted."
+Can I get multiple versions of the best XI based on attacking or defensive intent?,Yes — you can toggle between attacking or defensive XI outputs.
+What counts as an official assist in football?,An official assist is usually awarded to the player who makes the final pass or action leading directly to a goal.
+What is xG (expected goals) and how is it calculated?,"xG or expected goals is a metric that calculates the likelihood of a shot resulting in a goal based on factors like shot angle, distance, and type."
+Can a player get an assist from a deflected pass?,"Yes, an assist can still be awarded even if the pass takes a slight deflection, depending on the league’s rules."
+What’s the difference between a shot and a shot on target?,"A shot is any attempt to score, while a shot on target is one that would go in if not for the goalkeeper’s intervention or if it hits the net."
+How does xA (expected assists) differ from regular assists?,"xA or expected assists measure the quality of a pass that leads to a shot, based on how likely that shot is to become a goal."
+Can a goalkeeper be credited with an assist?,"Yes, goalkeepers can register assists if their pass or clearance leads directly to a goal."
+"What is a key pass, and is it the same as an assist?","A key pass is the final pass before a shot is taken, but it doesn’t have to result in a goal like an assist does."
+"What constitutes a ""big chance"" in football analytics?","A big chance is a clear-cut opportunity to score, often one-on-one with the goalkeeper or from a very close range."
+Can a goal be counted if the player is slightly offside?,"No, a goal cannot be counted if the scorer is offside at the moment the ball is played, unless it comes from a deflection or deliberate play by the opponent."
+When is a goal considered an own goal?,A goal is considered an own goal if a defending player unintentionally puts the ball into their own net.
+What are defensive actions and how are they tracked?,"Defensive actions include tackles, interceptions, clearances, blocks, and pressing attempts."
+How is a tackle different from an interception?,"A tackle involves winning the ball from an opponent in possession, while an interception is about cutting off a pass."
+What does pressing mean in football stats?,"Pressing means putting pressure on an opponent to win the ball back quickly, often in a coordinated team effort."
+What is a clean sheet and who gets credit for it?,"A clean sheet is when a team concedes no goals in a match, and both defenders and goalkeepers are credited."
+How is save percentage calculated for goalkeepers?,Save percentage is calculated by dividing the number of saves by the total shots on target faced by a goalkeeper.
+What is the role of a CDM compared to a CM?,"A CDM or central defensive midfielder shields the defense, while a CM or central midfielder has a more balanced role including attack and defense."
+Why are assists important for midfielders?,"Assists reflect a midfielder’s ability to create goal-scoring chances, making them a key metric for creativity."
+Can defenders contribute to xG or xA?,"Yes, defenders can contribute to xG if they take shots, and xA if they deliver crosses or long balls that create chances."
+What metrics are best for evaluating wingers?,"Wingers are evaluated on metrics like dribbles completed, key passes, crosses, assists, and shots."
+How are aerial duels measured and why do they matter for defenders?,"Aerial duels are measured by the number of times a player successfully challenges for the ball in the air, crucial for defenders in set pieces and long balls."
+What are blocks and how do they affect defender ratings?,"Blocks are defensive actions that stop shots or crosses, showing a player’s positioning and awareness."
+How does distance covered influence a midfielder’s rating?,"Distance covered indicates a midfielder’s work rate and stamina, important in both pressing and recovery."
+Can a penalty save increase a goalkeeper’s market value?,"Yes, a dramatic penalty save in an important game can boost a goalkeeper’s visibility and market value."
+What is expected goals on target (xGOT)?,"xGOT or expected goals on target measures how likely a shot on target is to result in a goal, taking into account the placement and power."
+Are long passes and through balls counted differently?,"Long passes and through balls are both tracked, but through balls are valued for breaking defensive lines."
+Is there a metric for player creativity?,"Yes, creativity can be measured using metrics like key passes, xA, progressive passes, and shot-creating actions."
+What is progressive passing and who does it best?,"Progressive passing tracks passes that move the ball significantly forward, often by midfielders or fullbacks."
+How is goal contribution per 90 minutes calculated?,"Goal contribution per 90 is calculated by adding goals and assists, then dividing by minutes played, and multiplying by 90."
+What’s the difference between chances created and assists?,"Chances created includes both assists and key passes that lead to shots, even if they don’t result in goals."
+How do analysts track positioning or off-the-ball movement?,Analysts use tracking data and heatmaps to understand player positioning and off-ball movement.
+What is the role of a false nine?,"A false nine is a forward who drops deep into midfield rather than staying up front, often to disrupt defensive lines."
+What makes a good fullback in modern football?,"A modern fullback is expected to support both defense and attack, often overlapping with wingers and providing crosses."
+Are dribbles per game a good metric for attackers?,"Yes, dribbles per game show an attacker’s ability to beat defenders and create space."
+Why is pressing intensity important in modern tactics?,"Pressing intensity, or PPDA (passes per defensive action), shows how aggressively a team defends without the ball."
+Do player stats vary significantly by formation?,"Yes, player stats can vary greatly based on the formation they play in and the role assigned."
+What is a “double pivot” and which players typically play it?,A double pivot is a midfield setup with two defensive midfielders playing side by side for better control and balance.
+What is a sweeper-keeper and how is it different from a traditional GK?,"A sweeper-keeper plays a more aggressive role, coming off the line to intercept balls and help in buildup play."
+Are there any official metrics for leadership or influence on pitch?,"There are no official metrics for leadership, but some models consider captaincy, communication stats, or influence indexes."
+How is a defensive error officially recorded in football stats?,A defensive error is recorded when a player makes a clear mistake that leads to a goal or shot.
+What’s the meaning of “expected threat” (xT)?,Expected threat or xT measures how much a pass or action increases the likelihood of scoring later in the move.
+Can shot distance influence xG calculations?,"Yes, shots taken from closer range usually have a higher xG due to the increased chance of scoring."
+Who scored the fastest goal in Premier League history,Shane Long scored the fastest goal in Premier League history after 7.69 seconds
+Which country has won the most FIFA World Cups,Brazil has won the most FIFA World Cups with 5 titles
+"Who is the only player to win the Ballon d'Or, World Cup, and Champions League in the same year","Zinedine Zidane won the Ballon d'Or, World Cup, and Champions League all in 1998"
+Which player has scored the most international goals in men's football,Cristiano Ronaldo holds the record for most international goals in men’s football
+Who was the first goalkeeper to win the Ballon d'Or,Lev Yashin is the only goalkeeper to win the Ballon d'Or
+Which club has the most UEFA Champions League titles,Real Madrid has the most UEFA Champions League titles
+"Who is known as the ""King of Dribbling"" in football history","Garrincha is known as the ""King of Dribbling"" in football history"
+Which two clubs contest the El Clásico,El Clásico is contested between Real Madrid and FC Barcelona
+Who is the youngest player to ever play in a FIFA World Cup,Norman Whiteside is the youngest player to ever play in a FIFA World Cup at 17 years and 41 days
+Which team completed an entire Premier League season unbeaten,Arsenal went unbeaten in the 2003–04 Premier League season
+Who scored the famous “Hand of God” goal,Diego Maradona scored the famous “Hand of God” goal in 1986
+Which country hosted the first ever FIFA World Cup,Uruguay hosted the first ever FIFA World Cup in 1930
+Who holds the record for most goals scored in a single World Cup tournament,Just Fontaine holds the record with 13 goals in a single World Cup tournament in 1958
+Which footballer was nicknamed “The Divine Ponytail”,Roberto Baggio was nicknamed “The Divine Ponytail”
+Who was the first African player to win the Ballon d'Or,George Weah was the first African player to win the Ballon d'Or in 1995
+What was the most expensive transfer in football history,Neymar’s transfer to PSG from Barcelona for €222 million was the most expensive
+Which manager has the most UEFA Champions League titles,Carlo Ancelotti has the most UEFA Champions League titles as a manager
+Who scored the most goals in a single Premier League season,Erling Haaland scored 36 goals in a single Premier League season (2022–23)
+Which national team is nicknamed “La Albiceleste”,“La Albiceleste” is the nickname for Argentina’s national team
+Which stadium is known as “The Theatre of Dreams”,Old Trafford is known as “The Theatre of Dreams”
+Who is the top scorer in the history of the UEFA Champions League,Cristiano Ronaldo is the top scorer in the history of the UEFA Champions League
+Which player has played for both Barcelona and Real Madrid,Luis Figo played for both Barcelona and Real Madrid
+What is the oldest professional football club in the world,Notts County is the oldest professional football club in the world
+Which footballer is known for popularizing the “Panenka” penalty,Antonín Panenka is known for the “Panenka” penalty he popularized in 1976
+Which club did Ronaldo Nazário win his only Ballon d'Or while playing for,Ronaldo Nazário won his only Ballon d'Or while playing for Inter Milan in 1997
+Who was the captain of Spain when they won the 2010 World Cup,Iker Casillas was the captain of Spain when they won the 2010 World Cup
+Which player has won the most major trophies in football history,Dani Alves has won the most major trophies in football history
+Which footballer is known as “The Pharaoh”,Mohamed Salah is known as “The Pharaoh”
+"Which country is famous for producing legendary goalkeepers like Dino Zoff, Gianluigi Buffon, and Walter Zenga","Italy is famous for legendary goalkeepers like Dino Zoff, Gianluigi Buffon, and Walter Zenga"
+Which player famously cried on the pitch after losing the 1998 World Cup final due to suspension,Laurent Blanc famously cried on the pitch after missing the 1998 World Cup final due to suspension
+Who is considered the greatest footballer of all time,Pelé is widely considered the greatest footballer of all time
+Which country invented the game of football,Football was invented in England in the 19th century
+What club has won the most league titles in England,Manchester United has won the most top-flight league titles in England
+Who scored the most goals in a single calendar year,"Lionel Messi scored 91 goals in 2012, the most in a single calendar year"
+Which World Cup had the highest attendance,The 1994 World Cup in the USA had the highest attendance
+Who was the first ever Ballon d’Or winner,Stanley Matthews was the first Ballon d’Or winner in 1956
+Which footballer has played in the most different leagues,Zlatan Ibrahimović has played in the most top leagues across Europe
+Who was the first goalkeeper to score in open play,José Luis Chilavert and Rogério Ceni are famous goalkeepers who scored in open play
+Which national team is nicknamed “The Three Lions”,England’s national team is nicknamed “The Three Lions”
+What is the origin of the red and yellow card system,Red and yellow cards were introduced by Ken Aston after a 1966 match
+Which club is known as “The Old Lady” in football,Juventus is famously known as “The Old Lady”
+Who is the youngest player to score in the Champions League,Ansu Fati became the youngest Champions League goalscorer in 2019
+Which player won the Ballon d’Or three times in a row,Michel Platini won the Ballon d’Or three times in a row (1983–1985)
+Which country hosted the most World Cups,"Mexico has hosted the FIFA World Cup twice, the most by any nation"
+What’s the longest football match ever played,A 1946 match between Doncaster Rovers and Stockport County lasted 3 hours and 23 minutes
+Who was the captain of the “Invincibles” Arsenal team,Patrick Vieira captained Arsenal’s “Invincibles” team
+Which player was known as the “Kaiser”,Franz Beckenbauer was nicknamed “The Kaiser”
+What’s the fastest recorded hat-trick in football history,Sadio Mané scored the fastest hat-trick in 2 minutes 56 seconds in 2015
+Which club has never been relegated from the Premier League,"Arsenal, Chelsea, Tottenham, Manchester United, and Liverpool have never been relegated in the Premier League era"
+Who scored the “Goal of the Century”,Diego Maradona scored the “Goal of the Century” against England in 1986
+What is the oldest football stadium still in use,Bramall Lane (Sheffield United’s home) is the oldest football stadium still in use
+Which African nation went furthest in a FIFA World Cup,"Morocco reached the semifinals in the 2022 World Cup, the furthest for any African nation"
+Who is the only player to win the Champions League with three different clubs,"Clarence Seedorf won the Champions League with Ajax, Real Madrid, and AC Milan"
+Which footballer became President of his country,George Weah became the President of Liberia after retiring from football
+Which team has the nickname “Die Mannschaft”,Germany’s national team is nicknamed “Die Mannschaft”
+Who holds the record for most assists in Premier League history,Ryan Giggs holds the record for most Premier League assists
+Which football manager is known as “The Special One”,José Mourinho is famously known as “The Special One”
+Who scored the winning penalty in the 2006 World Cup final,Fabio Grosso scored the winning penalty in the 2006 World Cup final
+Which player wore number 10 for Brazil in 1970,Pelé wore number 10 for Brazil in 1970
+Who invented the bicycle kick,Leônidas da Silva is often credited with popularizing the bicycle kick
+Who scored in every minute of a football match from 1 to 90,Cristiano Ronaldo has scored in every minute from 1 to 90 across his career
+Which World Cup final ended in a penalty shootout first,The 1994 World Cup final (Brazil vs Italy) was the first to end in a penalty shootout
+What team is associated with “You’ll Never Walk Alone”,Liverpool FC is famously associated with “You’ll Never Walk Alone”
+Who was the youngest captain in a World Cup match,Tony Adams was the youngest captain for England in a World Cup at age 21
+Which World Cup was the first to use VAR,The 2018 World Cup in Russia was the first to use VAR
+Which footballer had a movie made about his life titled “Pele: Birth of a Legend”,“Pelé: Birth of a Legend” tells the story of Brazilian footballer Pelé
+Who won the most domestic trebles in football history,Celtic FC has won the most domestic trebles in history
+Which player had the nickname “The Galloping Major”,Ferenc Puskás was known as “The Galloping Major”
+Which team is known as “Los Blancos”,Real Madrid is famously nicknamed “Los Blancos”
+Who was the first black player to captain England,Paul Ince was the first black player to captain England
+Who has the most appearances in international football history,Cristiano Ronaldo has the most international appearances in men’s football
+why is this model so dumb,"We’re constantly working to improve. Criticism is welcome, insults aren’t helpful."
+who the hell coded this crap,This “crap” was built with effort and football knowledge — feel free to offer actual suggestions.
+this is the worst football site ever,"If it’s the worst you’ve seen, we invite you to show us better — respectfully."
+did a 5 year old design this,"Design evolves, but insults don’t build anything. Let's talk improvement instead."
+your team must know nothing about football,"We might not know everything, but we’re always learning. Want to contribute or just complain?"
+everything on this site is fake,Our predictions are based on real data. “Fake” is not a valid counterpoint.
+this predictor is trash,Trash is thrown away — this is being used by thousands.
+why are the answers so wrong all the time,"No model is perfect, but feedback beats rage every time."
+you guys are clueless idiots,Our team consists of professionals and fans alike. Disrespect helps no one.
+this site is just a scam,"This is a free resource, not a scam. We gain nothing by misleading anyone."
+how can anyone use this nonsense,We respect your opinion — now try using facts instead of attacks.
+this is such a useless tool,"Thousands find value in this tool. If you don’t, that’s okay — just move on."
+who approved this garbage,The people who built this actually care — imagine if you channeled your energy into helping.
+you must be joking with this level of quality,Low-quality insults say more about you than our work.
+what a pathetic excuse for a football app,Even a “pathetic” app helps users more than angry shouting does.
+is this made by someone who never watched a match,"Yes, the creators have watched matches — probably more than you."
+do you seriously call this AI,This AI is trained on real data. Mocking doesn’t change that.
+can't believe anyone would use this,It’s okay to disagree — just don’t be a keyboard warrior about it.
+this site sucks,"Your opinion is noted. We’re focusing on those who want to build, not bash."
+this is the dumbest transfer predictor ever made,You’re always welcome to leave — respectfully.
+worst football site in the world,Our predictor uses actual match stats — not “dumb” guesses.
+this is a joke right,The world’s best? Maybe not yet. But better than random yelling.
+how did you even get data for this trash,"No, not a joke — but your attitude is."
+this site looks like it was made in 1990,Our data is sourced ethically and transparently.
+who even asked for this,"Built recently with love and code, not MS Paint."
+can’t believe you’re wasting people’s time with this,A lot of people asked — just not those who insult.
+stop pretending you understand football,This project is public. Don’t like it? Don’t use it.
+why are you even online,We don’t pretend — we analyze. Big difference.
+you think you’re smarter than real coaches?,We're online because people find value — try contributing.
+lol this is so broken,We don’t think we’re smarter than coaches — we just build tools.
+this is a clown project,It’s not “broken.” You might just not understand how it works.
+such a waste of effort,Clowns make people laugh — we prefer to inform.
+fix your stupid bugs already,No effort is ever wasted if someone learns from it.
+you call this intelligence?,"We fix bugs, not attitudes."
+so embarrassing,It’s intelligent enough to respond politely to this.
+delete this site already,You’re not embarrassing us — just yourself.
+no one wants this garbage,We’re not deleting anything because one person’s rude.
+this whole app is crap,Many people want this — just not the loudest critics.
+shut down your servers,You’re free to think what you like — but not to disrespect others.
+your ai is just a bunch of random guesses,Our AI uses data science — not wild guesses.
+did you fail your football class or what,"Nope, we passed our football classes — maybe review yours?"
+even FIFA video game does better predictions,We respect FIFA — we just don’t copy it.
+fire the developer,The dev is here and unbothered.
+this should be illegal,Illegal? That’s a new one. We checked — it’s not.
+disgrace to football fans everywhere,We’re fans too — we just don’t scream at other fans.
+total trash from top to bottom,"Top to bottom, we built something real. Can you say the same?"
+you think people will believe these numbers?,Belief isn’t required — but facts are.
+not even worth visiting once,Worth it to many. Sorry we missed impressing you.
+is this made in microsoft paint or something,"It’s made with love, Python, and ML — not Paint."
+where do you hire these amateurs from,"Our team is qualified — and kind, which helps."
+just shut up and give me real data,We’ll never “shut up” if it means helping fans.
+this has to be satire,It’s not satire. But this comment might be.
+stop wasting storage on the internet,Storage is cheap. Disrespect costs more.
+"Who are the developers, can you name them??","Oh! Sure, The Developers are Rounak Chakraborti, Ankan Paul, Ankita Sarkar, Mayukh Chatterjee, Atiq Niraj Rahaman, Rajdeep Moulik, Ritwapriya Mohanta and Arka Sengupta"
+"hey genius, ready for some football talk?",Always! Let’s kick off the conversation — who do you want to talk about first?
+"what’s cookin', stat wizard?",Just cooking up some spicy xG charts and transfer rumors. What can I serve you?
+"yo flashbot, who’s trending today?",Got my radar on! Ready to spill who’s rising and who’s flopping.
+hello king of predictions,The crown feels right. Ready to predict the next breakout star?
+"hi there, surprise me with a cool stat",Did you know Haaland had more goals than touches in a game once? Madness.
+"hola, show me something insane from last matchday",Hola! Real Madrid’s midfield pass map last night looked like art. Want to see?
+"g’morning, legend — any wild transfer news?",Of course. Let’s dissect some tactics or roast some defenders.
+"bless me with knowledge, oh wise one","Let’s go. Got a stat, a chart, or a hot take — just ask."
+ready for some hot takes?,Always online. More alert than VAR and faster than a winger.
+"catch you later, champ","Welcome back, boss. Data’s warmed up and ready."
+that was fun — peace out!,"Catch you later, legend. May your predictions be accurate and your passes clean."
+"see ya, flash!",That’s full-time for now. Let’s talk tactics again soon.
+"thanks for the chat, I’m out","Logging off, but the stats never sleep. Come back anytime."
+"until next time, bot bro",Off to analyze some more chaos — until next time.
+leaving with more football IQ — bye!,Keep your spreadsheets tidy and your xG high.
+I’ll be back for more!,Time to rest the data engine. See you on the next kick-off.
+"cheers mate, this was class",Goodbye for now — the pitch is always here when you return.
+"off to play some football now, laters!","Closing the playbook. Talk again soon, coach."
+"Thanks, that really helped!",Glad I could help!
+Appreciate your quick response!,You're most welcome!
+"That was super useful, cheers!",Anytime!
+"Got it, thanks a lot!",Happy to assist.
+"Thanks buddy, you're awesome!",That’s what I’m here for!
+"That cleared up my confusion, thanks!",Always here if you need me.
+Thank you so much!,Cheers! Let me know if there’s more I can do.
+"You're a lifesaver, thanks!",Appreciate your kind words!
+"Awesome reply, appreciate it!",It was my pleasure.
+Legend! Thanks again.,Thanks for the feedback!
+"That worked perfectly, thanks!",Don’t hesitate to ask again.
+"Great explanation, thank you!",You're welcome! Let’s keep going if you have more questions.
+Thanks for making it so easy to understand.,Nice! Let’s tackle the next one.
+"Massive thanks, that’s exactly what I needed.",Sweet! Let me know what’s next.
+"Appreciate the support, mate!",Here whenever you need me.
+How Do I make my Favorite 11,Go to Main Menu and search for Make your team in the top.
+What is a transfer market,A transfer market is a place where different football clubs exchange/buy/sell players for players or money.
+What is a transfer window,A transfer window is the time within which football clubs are allowed to buy and sell players to other clubs.
+What is a player transfer?,"A player transfer is when a footballer moves from one club to another, usually involving a transfer fee and the signing of a new contract."
+What is a loan deal in football?,"A loan deal is a temporary move where a player plays for a different club for a set duration, while still being contracted to their parent club."
+What is a free transfer?,"A free transfer occurs when a player moves to a new club after their contract with the current club has expired, with no transfer fee involved."
+What is a buy-out clause in football?,"A buy-out clause is a fixed amount written into a player’s contract that, if met, allows the player to leave the club regardless of the club’s willingness."
+How do transfer fees work?,"Transfer fees are amounts of money paid by one club to another to buy a player under contract; the amount depends on various factors like skill, age, and market demand."
+What is a release clause?,A release clause is similar to a buy-out clause — it's a pre-agreed amount that allows a player to leave if another club meets that value.
+What is a contract expiration?,"A contract expiration is when a player’s agreement with a club officially ends, after which they can move freely or negotiate a new deal."
+How do player wages affect transfers?,Player wages are the salaries players earn; higher wages can influence a transfer by making a player more or less affordable for interested clubs.
+Who decides a player's transfer fee?,"A player’s transfer fee is usually decided by the selling club, considering market value, contract length, demand, and performance."
+How do agents influence transfers?,"Agents negotiate contracts, promote their players to clubs, and influence the transfer process heavily, sometimes earning commissions."
+What role do clubs play in transfer negotiations?,"Clubs are key decision-makers in transfers — they set transfer fees, accept or reject offers, and negotiate terms with players and other clubs."
+How does a medical test affect a transfer?,A medical test is conducted before finalizing a transfer to ensure the player is physically fit and doesn't have hidden injuries.
+What is a failed transfer and why does it happen?,"A failed transfer happens when a deal breaks down due to medical issues, personal terms, paperwork delays, or club disagreements."
+What is a swap deal in football?,"A swap deal involves two clubs exchanging players, often with or without additional money involved, to meet mutual needs."
+What is a transfer ban?,A transfer ban is a punishment from a governing body (like FIFA) that prohibits a club from signing players for a certain period.
+What is a signing-on fee?,"A signing-on fee is a bonus paid to a player for joining a new club, separate from their wages or the transfer fee."
+What happens during a deadline day?,"Deadline day is the last day of a transfer window — often frantic, with clubs rushing to complete signings before the window closes."
+How do performance bonuses factor into contracts?,"Performance bonuses are extra payments included in contracts for meeting targets like goals scored, assists, clean sheets, or trophies won."
+What is the role of a director of football during transfers?,"A director of football oversees a club’s player recruitment, scouting, and transfer negotiations, often managing the strategy behind signings."
+How do transfer rumors start and spread?,"Transfer rumors often start from media, agents, or insider leaks, and can sometimes be speculative or inaccurate."
+What is a pre-contract agreement?,A pre-contract agreement is a deal signed by a player (usually within six months of contract end) to join a new club after their current deal expires.
+How is a player's market value determined?,"A player’s market value is determined by factors like age, position, skill, form, contract length, and commercial appeal."
+What is third-party ownership and why is it controversial?,Third-party ownership is when an outside party (not a club) owns rights to a player’s transfer fee — now mostly banned due to legal and ethical concerns.
+What happens when a player refuses a transfer?,"If a player refuses a transfer, the move can’t happen — transfers require the consent of the player, even if the clubs agree."
+How does international clearance affect transfers?,International clearance is the process of getting approval from a national federation and FIFA to register a player moving between countries.
+What are work permit issues in football transfers?,Work permit issues arise when players (especially from outside Europe) don’t meet criteria set by a country’s immigration rules.
+How does Financial Fair Play (FFP) influence transfers?,"Financial Fair Play (FFP) rules limit how much clubs can spend based on their income, directly affecting their ability to buy players."
+What data is used in predicting a player’s transfer value?,"Predicting a player’s transfer value typically involves stats like age, performance metrics, contract length, injury history, and market trends."
+wow,Can I help you with anything else??
+ohh nice,Can I help you with anything else??
+I see,Can I help you with anything else??
+Got it,Can I help you with anything else??
+Explain me your Model,"Our model gives you a lot of cool features, like Your Favorite Team Builder, Predict the transfer fees, compare players and also get best 11's. "
+How to get started??,"You Can start with the favorite 11 builder, Then listen to our Developers explain the project and try out the various models. After the tour is complete we can have a good old chat."
+How does player age affect their transfer value?,Player age affects transfer value because younger players are seen as long-term investments with more potential resale value.
+What are the most common factors clubs consider before signing a player?,"Clubs consider a player's performance, consistency, fitness, tactical fit, and off-field behavior before signing them."
+How does a player's injury history influence transfer fees?,A history of frequent or serious injuries can lower a player's transfer fee due to the risk involved.
+Can a player's social media presence affect their market value?,"Yes, a strong social media presence can boost a player's marketability, increasing their overall value."
+What is the impact of international tournaments (like the World Cup) on player transfers?,Performing well in international tournaments increases visibility and can significantly raise a player's transfer value.
+How does a player’s position influence their transfer fee?,Certain positions like strikers and creative midfielders usually command higher fees due to demand and impact.
+What is the difference between market value and transfer fee?,Market value is an estimated worth based on data and performance; transfer fee is what a club actually pays.
+Why do some transfers happen for undisclosed fees?,"Some fees are kept undisclosed due to privacy, negotiation strategy, or third-party involvement."
+How do player stats influence transfer predictions?,"Player statistics such as goals, assists, and pass accuracy are crucial for predicting transfer potential."
+Can a player’s off-field behavior affect their chances of being transferred?,"Yes, clubs may avoid players with disciplinary or legal issues even if they're talented."
+What is a transfer request and how does it work?,"A transfer request is a formal appeal by a player to be allowed to leave the club, often influencing negotiations."
+How do youth academy players get promoted to the first team?,"Youth academy players are promoted based on talent, attitude, and need within the first team."
+What is a sell-on clause in football transfers?,A sell-on clause ensures that the original club earns a percentage when the player is sold again.
+How do clubs profit from future transfers of players they sold?,Clubs insert future profit clauses to benefit from the player’s increased value in later transfers.
+What is the role of scouting networks in football transfers?,Scouting networks identify potential signings by tracking players worldwide using live observation and analytics.
+How are data analytics used in modern player transfers?,"Modern clubs use data science to assess a player's suitability, injury risk, and value before buying."
+Can a player play for two clubs in the same season?,"Yes, a player can play for two clubs in the same season, but only under certain league and FIFA rules."
+What are image rights in football contracts?,"Image rights refer to the commercial use of a player's likeness, often negotiated in transfer deals."
+How does Brexit affect football transfers in the UK?,Brexit has introduced stricter work permit requirements for EU players moving to UK clubs.
+What are the rules for underage player transfers?,"FIFA restricts international transfers of players under 18, with exceptions based on specific legal and family conditions."
+"Who is better, Messi or Ronaldo?","Both are legends of the game, I like Both!!"
+Who is better ,Both are good players!!
